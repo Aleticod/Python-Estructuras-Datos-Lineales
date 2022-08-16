@@ -17,7 +17,6 @@ class Array:
             
     ## Sobre carga de metodos
     def __len__(self):
-        print('hola')
         return len(self.items)
 
     
